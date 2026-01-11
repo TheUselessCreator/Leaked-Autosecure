@@ -1,3 +1,6 @@
+Not made by me.
+
+
 # AutoSecure
 
 **Contact:** `maka677` / [`discord server`](https://discord.gg/6mzg5uXJPM)
